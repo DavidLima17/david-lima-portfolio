@@ -3,7 +3,8 @@ import {BsFillArrowRightCircleFill} from 'react-icons/bs';
 
 const Home = () => {
   return (
-    <section name='home' className='h-screen w-full bg-gradient-to-b from-black to-gray-800'>
+    //name='home'
+    <section  className='h-screen w-full bg-gradient-to-b from-black to-gray-800'>
       <article className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full  text-gray-500'>
           <h1 className='text-4xl sm:text-7xl py-6 max-w-md font-bold'>Full Stack Developer</h1>
