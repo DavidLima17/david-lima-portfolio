@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/david-lima-portfolio/static/css/main.ed482a8c.css",
-    "main.js": "/david-lima-portfolio/static/js/main.0e3ecc91.js",
+    "main.css": "/david-lima-portfolio/static/css/main.bb4fb4f4.css",
+    "main.js": "/david-lima-portfolio/static/js/main.243680a6.js",
     "static/media/heroimage.jpg": "/david-lima-portfolio/static/media/heroimage.6cdb10857eb4d8bc2e9c.jpg",
     "static/media/ReStore.png": "/david-lima-portfolio/static/media/ReStore.69421d8364b04496b327.png",
     "static/media/Skinet.png": "/david-lima-portfolio/static/media/Skinet.c904e41f913452127c71.png",
@@ -13,11 +13,11 @@
     "static/media/css.png": "/david-lima-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/david-lima-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/david-lima-portfolio/index.html",
-    "main.ed482a8c.css.map": "/david-lima-portfolio/static/css/main.ed482a8c.css.map",
-    "main.0e3ecc91.js.map": "/david-lima-portfolio/static/js/main.0e3ecc91.js.map"
+    "main.bb4fb4f4.css.map": "/david-lima-portfolio/static/css/main.bb4fb4f4.css.map",
+    "main.243680a6.js.map": "/david-lima-portfolio/static/js/main.243680a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed482a8c.css",
-    "static/js/main.0e3ecc91.js"
+    "static/css/main.bb4fb4f4.css",
+    "static/js/main.243680a6.js"
   ]
 }
