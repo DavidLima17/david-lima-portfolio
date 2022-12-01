@@ -1,12 +1,15 @@
 import { FaGithubSquare as Git, FaLinkedin as Linkedin } from 'react-icons/fa';
 import { HiOutlineMail as Mail } from 'react-icons/hi';
+import { AiOutlineFileText as Resume} from 'react-icons/ai'
+
 const SocialLinks = () => {
 //
 //
     const links = [
         {id: 1, child: (<>Linkedin <Linkedin size={40}/></>), href: 'https://www.linkedin.com/in/david-lima17/', style: 'rounded-tr-md'},
         {id: 2, child: (<>GitHub <Git size={40}/></>), href: 'https://github.com/DavidLima17'},
-        {id: 3, child: (<>Mail <Mail size={40}/></>), href: 'mailto:david.lima17+MyPortfolio@gmail.com', style: 'rounded-br-md'},
+        {id: 3, child: (<>Resume <Resume size={40}/></>), href: 'https://gitconnected.com/davidlima17/resume'},
+        {id: 4, child: (<>Mail <Mail size={40}/></>), href: 'mailto:david.lima17+MyPortfolio@gmail.com', style: 'rounded-br-md'},
     ]
 
   return (
